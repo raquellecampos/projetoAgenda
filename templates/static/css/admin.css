@@ -1,5 +1,5 @@
 /*
-ALTERAR: ffffff -> Cor do topo
+ALTERAR: 2a3252 -> Cor do topo
 ALTERAR: ef5455 -> Cor dos links e cabeçalhos
 */
 
@@ -11,7 +11,7 @@ ALTERAR: ef5455 -> Cor dos links e cabeçalhos
 }
 
 #header {
-    background: #ffffff;
+    background: #2a3252;
     color: #FFFFFF;
 }
 
@@ -40,7 +40,7 @@ div.breadcrumbs {
 }
 
 .paginator a:hover {
-    background: #ffffff !important;
+    background: #2a3252 !important;
     color: #FFFFFF;
 }
 
@@ -54,7 +54,7 @@ input[type=submit].default:active,
 input[type=submit].default:focus,
 .button.default:hover,
 input[type=submit].default:hover {
-    background: #ffffff;
+    background: #2a3252;
 }
 
 .object-tools a:focus, .object-tools a:hover {
@@ -62,7 +62,7 @@ input[type=submit].default:hover {
 }
 
 .button, input[type=submit], input[type=button], .submit-row input, a.button {
-    background: #ffffff;
+    background: #2a3252;
     color: #FFFFFF;
 }
 .button:active,
@@ -85,7 +85,7 @@ input[type=button]:hover {
 #changelist-filter a:hover,
 #changelist-filter li.selected a:focus,
 #changelist-filter li.selected a:hover {
-    color: #ffffff !important;
+    color: #2a3252 !important;
 }
 
 .selector-chosen h2 {
